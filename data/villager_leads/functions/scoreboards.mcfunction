@@ -1,0 +1,1 @@
+scoreboard objectives add SDP_VillagerLead minecraft.custom:minecraft.talked_to_villager

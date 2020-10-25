@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:'Shroototem'}"
+        },
+        "title": {
+            "text": "Shroototems",
+            "bold": true,
+            "color": "green"
+        },
+        "description": {
+            "text": "All currently installed datapacks",
+            "color": "white",
+            "bold": false
+        },
+        "background": "minecraft:textures/block/black_concrete.png",
+        "frame": "challenge"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
